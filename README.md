@@ -40,10 +40,7 @@ Fonte: https://www.atlassian.com/br/git/tutorials/what-is-git
 
 #   **Como Funciona o Git**
 
-https://res.cloudinary.com/practicaldev/image/fetch/s--qn5ru4ER--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/zbu0eocercv8edfs846m.png
-
-
-
+![zbu0eocercv8edfs846m](https://user-images.githubusercontent.com/57717982/162843076-a58bbe2d-43fe-4d0b-a25b-5a874fc64b5a.png)
 
 
 
