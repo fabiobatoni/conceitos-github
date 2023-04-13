@@ -2,7 +2,7 @@
 
 ---
 
-> 1º Projeto sobre Git / GitHub, nesse projeto iremos entender sobre, como funciona e principais comandos.
+> Introdução Git / GitHub, nesse topico iremos entender sobre, como funciona e principais comandos.
 
 ---
 
